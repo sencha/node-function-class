@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/node-function-class.git"
+    "url": "git://github.com/sencha/node-function-class.git"
   },
   "keywords": [
     "function",
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/TooTallNate/node-function-class#readme",
   "dependencies": {
     "es6-symbol": "^3.0.2",
-    "function-name": "^1.0.0",
+    "function-name": "sencha/node-function-name#find-by-abi",
     "setprototypeof": "^1.0.0"
   }
 }
